@@ -99,9 +99,6 @@ def Answer(Input):
     print(Value)   
 
 
-
-    
-
 while True:
     Input = str(input())
     Check_input(Input)
